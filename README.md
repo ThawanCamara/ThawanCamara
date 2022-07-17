@@ -46,8 +46,5 @@ int main(void)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThawanCamara&theme=elegant&background=000000&ring=DD9F00&dates=DD8405&border=DDDDDD)](https://git.io/streak-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawancamara&layout=compact&theme=vision-friendly-dark&hide=title)](https://github.com/ThawanCamara/github-readme-stats)
-
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawancamara&layout=compact&theme=vision-friendly-dark&hide=title)](https://github.com/anuraghazra/github-readme-stats)
 </div>
