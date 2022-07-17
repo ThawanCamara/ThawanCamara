@@ -1,5 +1,5 @@
 <div align="right">
-<img align="right" src="https://user-images.githubusercontent.com/74421838/179423821-7516ab58-7861-4d2e-9d47-782918c7ea62.png" width=30%>
+<img align="right" src="https://github.com/ThawanCamara/ThawanCamara/blob/master/assets/179423821-7516ab58-7861-4d2e-9d47-782918c7ea62.png?raw=true" width=30%>
 </div>
 
 <div align="center">
