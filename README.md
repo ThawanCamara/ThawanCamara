@@ -14,8 +14,8 @@
 </div>
 
 <div>
-<p align="center"><strong>More about me...</strong></p>
-
+<p align="center"><strong><br>More about me...</strong></p>
+    
 ```c
 #include "ft_cadet.h"
 /**
