@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-<h2>Hi! I'm Thawan Camara</h2>
+<h2>Hi!<br>I'm Thawan Camara</h2>
 
 <p>
 <em>Cadet at <a href="https://42.rio/">42 | RIO</a></em>
