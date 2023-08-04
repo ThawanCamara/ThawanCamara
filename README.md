@@ -1,5 +1,5 @@
 ### Hi, I'm Thawan!
-> I create.
+> I love writing, gaming, and coding. Clever scripts are a gift. No coffee, please. 
 
 ---
 
@@ -28,9 +28,3 @@ Studying and discussing technology at ![Static Badge](https://img.shields.io/bad
 <a href="https://profile.codersrank.io/user/thawancamara/">
   <img align="left" alt="Thawan's CodersRank" width="20px" src="https://simpleicons.now.sh/codersrank/495f7e" />
 </a>
-
-<br><br>
-
-
-
-
