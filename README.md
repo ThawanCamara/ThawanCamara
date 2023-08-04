@@ -1,9 +1,3 @@
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara"
-/>
-
-<a href="https://profile.codersrank.io/user/thawancamara/">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara)</a>
-[![CodeRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara)](https://profile.codersrank.io/user/thawancamara/)
 ### Hi, I'm Thawan!
 > I create.
 
