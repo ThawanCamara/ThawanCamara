@@ -1,50 +1,42 @@
-<div align="right">
-<img align="right" src="https://github.com/ThawanCamara/ThawanCamara/blob/master/assets/179423821-7516ab58-7861-4d2e-9d47-782918c7ea62.png?raw=true" width=30%>
-</div>
+<img
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara"
+/>
 
-<div align="center">
-<h2>Hi!<br>I'm Thawan Camara</h2>
+<a href="https://profile.codersrank.io/user/thawancamara/">![](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara)</a>
+[![CodeRank Summary](https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=thawancamara)](https://profile.codersrank.io/user/thawancamara/)
+### Hi, I'm Thawan!
+> I create.
 
-<p>
-<em>Cadet at <a href="https://42.rio/">42 | RIO</a></em>
+---
 
-[![Linkedin: thawancamara](https://img.shields.io/badge/-thawancamara-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/thawan-de-souza-camara/)](https://www.linkedin.com/in/thawan-de-souza-camara/)
-[![GitHub ThawanCamara](https://img.shields.io/github/followers/thawancamara?label=follow&style=social)](https://github.com/ThawanCamara)
-</p>
-</div>
+###### Tech Stack
 
-<div>
-<p align="center"><strong><br>More about me...</strong></p>
-    
-```c
-#include "ft_cadet.h"
-/**
- * #include "humancoder.h" > yet to implement
- */
+![Static Badge](https://img.shields.io/badge/C-black?style=plastic&logo=C&label=%20&labelColor=131513&color=393837)
+![Static Badge](https://img.shields.io/badge/C%2B%2B-black?style=plastic&logo=C%2B%2B&label=%20&labelColor=131513&color=393837)
+![Static Badge](https://img.shields.io/badge/Bash-white?style=plastic&logo=gnu%20bash&logoColor=ffffff&color=393837)
+![Static Badge](https://img.shields.io/badge/Python-black?style=plastic&logo=Python&label=%20&labelColor=131513&color=393837)
+![Static Badge](https://img.shields.io/badge/Java-black?style=plastic&&color=393837)
+<br/>
+![Static Badge](https://img.shields.io/badge/Linux-black?style=plastic&logo=linux&logoColor=ffffff&label=%20&labelColor=131513&color=393837)
+![Static Badge](https://img.shields.io/badge/Docker-black?style=plastic&logo=docker&logoColor=ffffff&label=%20&labelColor=131513&color=393837)
+![Static Badge](https://img.shields.io/badge/Git-black?style=plastic&logo=git&logoColor=ffffff&label=%20&labelColor=131513&color=393837)
 
-int main(void)
-{
-    const t_Dev thawan;
+###### About me
 
-    thawan.pronouns = "he | his";
-    thawan.code = "C, Java, C#";
-    thawan.where = "Rio";
-    thawan.current_state = LEARNING;
-    
-    while (TRUE)
-        improve(thawan);	
-    
-    return (0);
-}
-```
+**\-- Software Developer \--**<br>
+Studying and discussing technology at ![Static Badge](https://img.shields.io/badge/Rio-black?style=plastic&logo=42&logoColor=ffffff&label=%20&labelColor=131513&color=393837) <sup>(<a href=https://42.rio/>Official site</a>)</sup>
 
-</div>
+---
 
-<div id="stats" align="center">
+<a href="www.linkedin.com/in/thawan-de-souza-camara">
+  <img align="left" alt="Thawan's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
+</a>
+<a href="https://profile.codersrank.io/user/thawancamara/">
+  <img align="left" alt="Thawan's CodersRank" width="20px" src="https://simpleicons.now.sh/codersrank/495f7e" />
+</a>
 
-<h2></h2>
+<br><br>
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ThawanCamara&theme=elegant&background=000000&ring=DD9F00&dates=DD8405&border=DDDDDD)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thawancamara&layout=compact&theme=vision-friendly-dark&hide=title)](https://github.com/anuraghazra/github-readme-stats)
-</div>
+
+
