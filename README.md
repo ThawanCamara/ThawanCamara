@@ -1,5 +1,5 @@
 ### Hi, I'm Thawan!
-> I love writing, gaming, and coding. Clever scripts are a gift. No coffee, please. 
+> I love writing, gaming, and coding. Clever scripts are a gift. No coffee, thank you. 
 
 ---
 
