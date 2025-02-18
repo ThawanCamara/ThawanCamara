@@ -21,7 +21,3 @@
 Studying and discussing technology at ![Static Badge](https://img.shields.io/badge/Rio-black?style=plastic&logo=42&logoColor=ffffff&label=%20&labelColor=131513&color=393837) <sup>(<a href=https://42.rio/>Official site</a>)</sup>
 
 ---
-
-<a href="www.linkedin.com/in/thawan-de-souza-camara">
-  <img align="left" alt="Thawan's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
-</a>
