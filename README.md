@@ -25,6 +25,3 @@ Studying and discussing technology at ![Static Badge](https://img.shields.io/bad
 <a href="www.linkedin.com/in/thawan-de-souza-camara">
   <img align="left" alt="Thawan's Linkedin" width="20px" src="https://simpleicons.now.sh/linkedin/495f7e" />
 </a>
-<a href="https://profile.codersrank.io/user/thawancamara/">
-  <img align="left" alt="Thawan's CodersRank" width="20px" src="https://simpleicons.now.sh/codersrank/495f7e" />
-</a>
